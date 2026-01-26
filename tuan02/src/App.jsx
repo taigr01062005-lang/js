@@ -18,9 +18,9 @@ function App() {
 
   return (
     <div className="App">
-      {/* <ProductCard product={product} /> */}
+      <ProductCard product={product} />
       {/* <ProductList /> */}
-      <LoginForm background="#f0f0f0" border="1px solid #ccc"/>
+      {/* <LoginForm background="#f0f0f0" border="1px solid #ccc"/> */}
     </div>
   );
 }
