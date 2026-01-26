@@ -1,26 +1,25 @@
 .alert{
-  padding: 15px;
+  padding: 20px;
   margin-top: 20px;
-  border: 1px solid transparent;
-  border-radius: 4px;
+  border: 1px solid unset;
+  border-radius: 5px;
   font-weight: bold;
   text-align: center;
   transition: all 0.3s ease;
 }
 .alert-success{
-    color: #155724;
-    background-color: #d4edda;
+    color: #1c8d36;
+    background-color: #878d89;
     border-color: #c3e6cb;
 }
 .alert-warning{
-    color: #856404;
-    background-color: #fff3cd;
-    border-color: #ffeeba;
+    color: #9b884e;
+    background-color: #d8bc5f;
+    border-color: #aa9d74;
 
 }
 .alert-error{
-    color: #721c24;
-    background-color: #f8d7da;
-    border-color: #f5c6cb;
-
+    color: #c52232;
+    background-color: #a57e81;
+    border-color: #d6d3d3;
 }

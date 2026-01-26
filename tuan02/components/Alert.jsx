@@ -6,9 +6,7 @@ const Alert = ({type}) => {
 
   if(type==null) return null;
 
-  
-
-  return (
+    return (
     <div className={classname}>
       {type}
 
